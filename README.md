@@ -1,7 +1,7 @@
 # SZT-BigData-Analysis
 # 🚉 深圳市公共交通百万级客流挖掘与 AI 预测系统
 
-> **作者：** 徐天奇 (xtq) | **专业：** 大数据管理与应用 (CUMTB)
+> **作者：** 徐天奇  | **专业：** 大数据管理与应用 (CUMTB)
 > **核心技术：** PySpark, SQLite, Pandas, PyTorch, BI 可视化
 
 ---
